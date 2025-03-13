@@ -2,7 +2,9 @@
 Simple Python script for generating W++ character descriptions via Poe's GPT
 
 ### 1. Install requirements.txt and that's about it really
-
+ If you use on Windows first lounch start_windows.bat.
+ Its will be get installed a runtime environment. But a first launch this got an err, when it wil be called a charGen.py, its is ok.
+ Don't worry, just close it. Then run cmd_windows.bat and enter ths command:
 `$ pip install -r requirements.txt`
 
 ### 2. Get yourself a Poe token by signing up and going to the developer console to grab the p-b value from the cookie. Put it in the script.
